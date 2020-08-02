@@ -2,3 +2,4 @@ mod
 para gaurdar cambios en repositorio 
 Español 
 corsfitt o no ? 
+leer en vez de escuchar musica 
