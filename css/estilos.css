@@ -1,6 +1,12 @@
 body 
 {
-    color: red; 
+    color: palevioletred
     text-align: center; 
     font-family: "Arial";
+}
+# cabecera 
+{
+    column-span: initial;
+    stroke-linecap: butt;
+    clip-path: circle();
 }
